@@ -1,6 +1,6 @@
 ## Medical Appointments Analysis
 
-My second project in the Udacity Data Analyst Nanodegree program. Here, I chose the (No-show appointments dataset)[https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv&sa=D&ust=1532469042118000] for analysis.
+My second project in the Udacity Data Analyst Nanodegree program. Here, I chose the [No-show appointments dataset](https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv&sa=D&ust=1532469042118000) for analysis.
 
 ## Dataset
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are
